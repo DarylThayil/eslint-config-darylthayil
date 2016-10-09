@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-darylthayil",
   "version": "1.0.0",
-  "description": "Personal eslint config seeded from `eslint-config-pwmkenna` for all my projects",
+  "description": "Personal eslint config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
