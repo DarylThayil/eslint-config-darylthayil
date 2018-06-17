@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-darylthayil",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Personal eslint config",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "babel-eslint": "*",
     "eslint": "*",
     "eslint-config-airbnb": "*",
-    "eslint-plugin-react": "*"
+    "eslint-plugin-react": "*",
+    "eslint-plugin-mocha": "^5.0.0"
   },
   "homepage": "https://github.com/DarylThayil/eslint-config-darylthayil#readme"
 }
