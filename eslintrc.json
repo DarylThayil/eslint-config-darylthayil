@@ -7,5 +7,9 @@
   "rules": {
     "comma-dangle": [2, "never"],
     "arrow-parens": [2, "as-needed"]
+  },
+  "env": {
+    "node": true,
+    "mocha" true
   }
 }
